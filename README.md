@@ -1,4 +1,4 @@
-# JAVASCRIPT QUIZ MADE IN REACT
+# JAVASCRIPT QUIZ MADE IN REACT - 100daysofprojects
 warn sloppy code!! 😃  
 Help me with the conditional rendering if possible <3  
 Questions Courtesy: CodesCracker
